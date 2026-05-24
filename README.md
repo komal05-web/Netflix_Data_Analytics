@@ -117,7 +117,7 @@ python netflix_analysis.py
 ## 👤 Author
 
 **Komal Pandey**
-📧 komalpandey0529@gmail.com.com
+📧 komalpandey0529@gmail.com
 
 
 ---
