@@ -90,8 +90,8 @@ netflix-content-analytics/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/netflix-content-analytics.git
-cd netflix-content-analytics
+git clone https://github.com/komal05-web/Netflix_Data_Analytics.git
+cd Netflix_Data_Analytics
 
 # 2. Install dependencies
 pip install pandas matplotlib seaborn numpy jupyter
@@ -116,10 +116,9 @@ python netflix_analysis.py
 
 ## 👤 Author
 
-**[Your Name]**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+**Komal Pandey**
+📧 komalpandey0529@gmail.com.com
+
 
 ---
 
